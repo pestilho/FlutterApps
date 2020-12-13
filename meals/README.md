@@ -36,4 +36,4 @@ Abaixo pode-se ver algumas telas do aplicativo:
 Abaixo tem-se o link para o aplicativo Android [release-version]:
 <br/>
 <br/>
-<a href="https://israel-public-images.s3.us-east-2.amazonaws.com/questions-app-release.apk">Aplicativo Questions</a>
+<a href="https://israel-public-images.s3.us-east-2.amazonaws.com/meals-app-release.apk">Aplicativo Meals</a>
