@@ -19,3 +19,5 @@ Abaixo pode-se ver algumas telas do aplicativo:
 <img width="200" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+14.59.52.png">
 <img width="200" style="margin: 0 20px;" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+15.00.22.png">
 <img width="200" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+15.00.08.png">
+<br/><br/>
+Abaixo tem-se o link para o aplicativo Android [Debug-version]:
