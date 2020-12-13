@@ -27,7 +27,7 @@ Abaixo pode-se ver algumas telas do aplicativo:
 <br/><br/>
 <img width="200" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+18.24.24.png">
 <img width="200" style="margin: 0 20px;" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+18.27.42.png">
-<br/>
+<br/><br/>
 <img width="400" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+18.50.50.png">
 <img width="400" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+18.51.01.png">
 <br/><br/>
