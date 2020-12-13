@@ -13,10 +13,15 @@ Nesse projeto foi desenvolvido as seguintes habilidades e conceitos em Flutter:
 - Pacote intl
 - Modal em Flutter
 - Criando e estilando Temas em Flutter
+- SafeArea
 - Chart widget
 - Flexible e Expanded
 - ListTile
 - DatePicker
+- Responsividade
+- LayoutBuilder
+- Objeto MediaQuery
+- CustomTextField
 
 Abaixo pode-se ver algumas telas do aplicativo:
 <br/><br/>
