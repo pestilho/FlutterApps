@@ -1,16 +1,18 @@
-# projeto_perguntas
+# Projeto Questions
 
-A new Flutter project.
+Um projeto para aprendizado e consolidação de conhecimenos em Flutter - Dart
 
-## Getting Started
+## Características do projeto
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Nesse projeto foi desenvolvido as seguintes habilidades e conceitos em Flutter:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Arvores de widgets
+- StatelessWidget
+- StatefullWidget
+- Callback entre widgets
+- Map
+- Funções anônimas
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Abaixo pode-se ver algumas telas do aplicativo:
+![Alt text](https://israel-public-images.s3.us-east-2.amazonaws.com/charity.jpg?raw=true "Title")
