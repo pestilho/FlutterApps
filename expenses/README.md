@@ -1,18 +1,22 @@
-# Projeto Questions
+# Projeto Expenses
 
-Um projeto para aprendizado e consolidação de conhecimenos em Flutter - Dart. Um aplicativo onde o usuário vai respondendo perguntas e no final obtem o resultado: um nível de conhecimento sobre as perguntas realizadas.
+Um projeto para aprendizado e consolidação de conhecimenos em Flutter - Dart. Um aplicativo onde o usuário cadastra transações financeiras e assim é criado uma lista de transações na tela principal.
 
 ## Características do projeto
 
 
 Nesse projeto foi desenvolvido as seguintes habilidades e conceitos em Flutter:
 
-- Arvores de widgets
-- StatelessWidget
-- StatefullWidget
-- Callback entre widgets
-- Map
-- Funções anônimas
+- Conhecendo widgets como: Container, Column, Row, TextField, ScrollView e outros
+- Trabalhando com assets em Flutter
+- Classes em Dart
+- Pacote intl
+- Modal em Flutter
+- Criando e estilando Temas em Flutter
+- Chart widget
+- Flexible e Expanded
+- ListTile
+- DatePicker
 
 Abaixo pode-se ver algumas telas do aplicativo:
 <br/><br/>
