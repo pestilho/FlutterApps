@@ -33,4 +33,5 @@ Abaixo pode-se ver algumas telas do aplicativo:
 <br/><br/>
 Abaixo tem-se o link para o aplicativo Android [release-version]:
 <br/>
+<br/>
 <a href="https://israel-public-images.s3.us-east-2.amazonaws.com/expenses-app-release.apk">Aplicativo Expenses</a>
