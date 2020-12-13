@@ -15,4 +15,5 @@ Nesse projeto foi desenvolvido as seguintes habilidades e conceitos em Flutter:
 - Funções anônimas
 
 Abaixo pode-se ver algumas telas do aplicativo:
+<br/>
 ![Alt text](https://israel-public-images.s3.us-east-2.amazonaws.com/charity.jpg?raw=true "Title")
