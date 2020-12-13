@@ -16,6 +16,8 @@ Nesse projeto foi desenvolvido as seguintes habilidades e conceitos em Flutter:
 
 Abaixo pode-se ver algumas telas do aplicativo:
 <br/>
+<img width="200" alt="portfolio_view" src="https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+14.59.52.png">
+
 ![Alt text](https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+14.59.52.png?raw=true | width=150 "Pergunta 1")
 ![Alt text](https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+15.00.22.png?raw=true =150 "Pergunta 1")
 ![Alt text](https://israel-public-images.s3.us-east-2.amazonaws.com/Simulator+Screen+Shot+-+iPhone+12+Pro+-+2020-12-13+at+15.00.08.png?raw=true =150 "Resultado")
