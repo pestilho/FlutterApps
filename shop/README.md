@@ -1,18 +1,31 @@
 # Projeto Shop
 
-Um projeto para aprendizado e consolidação de conhecimenos em Flutter - Dart. Um aplicativo onde o usuário vai respondendo perguntas e no final obtem o resultado: um nível de conhecimento sobre as perguntas realizadas.
+Um projeto para aprendizado e consolidação de conhecimenos em Flutter - Dart. Um aplicativo onde o usuário pode cadastrar, editar e remover produtos em uma loja. Além disso ele pode comprar produtos, visualizar seus pedidos, filtrar produtos e acessar o carrinho de compras para para finalizar seu pedido.
 
 ## Características do projeto
 
 
 Nesse projeto foi desenvolvido as seguintes habilidades e conceitos em Flutter:
 
-- Arvores de widgets
-- StatelessWidget
-- StatefullWidget
-- Callback entre widgets
-- Map
-- Funções anônimas
+- Gerenciamento de estado
+- Inherited widget
+- Providers, ChangeNotifierProvider e Consumer
+- Mixins
+- MultiProvider
+- ProxyProvider
+- Snackbar e Dialog
+- Form
+- Controller, Validator, Controlando focus em TextField/TextFieldForm
+- Requisições HTTP
+- Método GET/POST/PATCH/PUT/DELETE em Flutter
+- Futures e Async/Await
+- Pull-to-Refresh 
+- Firebase connections e setup
+- FutureBuilder
+- Exceptions
+- Autenticação e gerenciamento de token
+- Gerenciamento de login/logout e auto-login/auto-logout
+- SharePreferences
 
 Abaixo pode-se ver algumas telas do aplicativo:
 <br/><br/>
